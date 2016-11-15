@@ -1,1 +1,12 @@
-/secrets.json
+*.pyc
+.DS_Store
+/src/web_app/js/enums.js
+bower_components
+browser*
+firefox*
+node_modules
+out
+secrets.json
+temp/*
+validation-report.json
+validation-status.json
